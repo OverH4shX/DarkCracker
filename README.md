@@ -21,6 +21,6 @@ DarkCracker is a penetration testing tool designed to capture WPA/WPA2 Wi-Fi han
 
 - Linux system (Kali, Parrot OS, etc.)
 - Wireless adapter that supports monitor mode & packet injection
-- aircrack-ng installed:
+- tool command:
   ```bash
   sudo python3 DarkCracker.py
